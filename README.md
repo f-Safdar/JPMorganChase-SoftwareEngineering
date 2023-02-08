@@ -8,19 +8,19 @@ You’re going to assist with some development of an alternative way to visualiz
 JPMorgan Chase has traders in all the major financial centers and creates a marketplace for asset classes around the globe for our investor clients. Trading teams are organized by asset class:
 
 
-# Equities (stocks)
+### Equities (stocks)
 
-# Commodities
+### Commodities
 
-# Credit (debt and bonds)
+### Credit (debt and bonds)
 
-# Currency & Emerging Markets
+### Currency & Emerging Markets
 
-# Public Finance (Government bonds)
+### Public Finance (Government bonds)
 
-# Interest rates
+### Interest rates
 
-# Securitized Products
+### Securitized Products
 
 
 For this project, a trader from the equities team (publicly listed company stocks) has requested functionality be added to their dashboard to allow them to input specific information so they can monitor a new trading strategy.
