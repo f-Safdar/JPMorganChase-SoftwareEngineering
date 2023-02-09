@@ -66,6 +66,8 @@ Congrats, you’ve got your local development environment up and running! Now it
 
 When you’re in a work environment, you’ll usually receive tasks in the form of engineering tickets. Here is an example of what this task looks like in the form of an engineering ticket
 
+[task_1_guide.docx.pdf](https://github.com/f-Safdar/J.P.-Morgan-Chase-Co-Software-Engineering-Virtual-Experience/files/10691385/task_1_guide.docx.pdf)
+
 #### Purpose
 
 We want to process the data feed of stock A and stock B’s price to enable us to analyse when trading for the stock should occur.
