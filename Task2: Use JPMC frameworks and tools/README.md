@@ -22,7 +22,13 @@ First, fork and clone the project repo:
 https://github.com/vagabond-systems/jpmc-task-2
 
 Remember to uncheck the “Copy the main branch only” box in the fork dialog on GitHub. A model answer has been provided in a separate branch from main.
+
+<img width="820" alt="PyCharm IDE" src="https://user-images.githubusercontent.com/104922257/221221808-b46fd6fe-045b-4976-af01-7f053cb47090.png">
+
 • Create a new virtual environment in the project root. Pycharm can do this automatically for you using the “configure python interpreter” option in settings.
+
+<img width="787" alt="interpreter" src="https://user-images.githubusercontent.com/104922257/221220260-aaa4399f-bc58-4ed2-9ec0-d90e28061a41.png">
+
 • Install all project python  dependencies. These are listed in the requirements.txt file.
 
 In this task, we will be working with javascript in addition to python. Javascript has a handy package manager called npm, which handles package tracking, discovery, installation, and removal. We will be using it to install a series of javascript dependencies to your machine. If you already have access to npm on your system, you can skip this step. Otherwise, you will need to acquire it by following the instructions here (npm comes bundled with nodejs): 
@@ -31,9 +37,16 @@ https://nodejs.dev/en/learn/how-to-install-nodejs/
 
 For this project to work, you must have node 18.10.0 installed on your machine. Ensure you have the correct version by running “node -v” in your terminal. If you do not, consider using nvm to install the correct version for you.
 
+<img width="666" alt="node version" src="https://user-images.githubusercontent.com/104922257/221221063-eade5694-445d-4364-87c4-5ecdbbd5b4b1.png">
+
 • Install the necessary dependencies by running `npm install` from the project repo
+
+<img width="675" alt="npm install" src="https://user-images.githubusercontent.com/104922257/221221138-f8b77d98-5e40-4bba-8483-189d154f0c08.png">
+
 • Start the python server by running server.py from the project repo
 • Start the client by running `npm start` from the project repo
+
+<img width="846" alt="npm start" src="https://user-images.githubusercontent.com/104922257/221221201-a1b0a510-8ce2-43ab-b753-64ac85def61b.png">
 
 ### Making Changes
 
@@ -56,3 +69,7 @@ https://nodejs.dev/en/learn/how-to-install-nodejs/
 https://perspective.finos.org/
 
 https://github.com/finos/perspective
+
+
+
+
