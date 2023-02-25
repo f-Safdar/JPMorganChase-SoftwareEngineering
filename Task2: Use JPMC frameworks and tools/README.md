@@ -62,7 +62,7 @@ The objective of this task will be for you to fix the client-side web applicatio
 This ticket is done when the graph displayed in the client-side web application is a continuously updating line graph whose y-axis is the stock’s top_ask_price and the x-axis is the timestamp of the stock. The continuous updates to the graph should be the result of continuous requests and responses to and from the server for the stock data.
 This ticket is done when the graph is also able to aggregate duplicated data retrieved from the server
 
-#### Resources to help you with the task: 
+#### Resources 
 
 https://nodejs.dev/en/learn/how-to-install-nodejs/
 
